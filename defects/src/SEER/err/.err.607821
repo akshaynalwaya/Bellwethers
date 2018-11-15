@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "par_exec.py", line 13, in <module>
+    from data.handler import get_all_projects
+  File "/home/rkrish11/git/Bellwether/src/data/handler.py", line 7, in <module>
+    from utils import explore
+  File "/home/rkrish11/git/Bellwether/src/utils.py", line 5, in <module>
+    import pandas as pd
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/pandas/__init__.py", line 25, in <module>
+    from pandas import hashtable, tslib, lib
+  File "pandas/hashtable.pyx", line 12, in init pandas.hashtable (pandas/hashtable.c:39765)
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/six.py", line 184, in find_module
+    def find_module(self, fullname, path=None):
+KeyboardInterrupt

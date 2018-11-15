@@ -1,0 +1,11 @@
+Name,Pd,Pf,Prec,F1,G,AUC
+drjava,60,15,50,54,71,66
+xerces,60,36,30,40,61,56
+fitlibraryforfitnesse,100,68,27,43,56,75
+mvnforum,60,57,21,31,50,54
+galleon,60,57,21,31,50,59
+xalan,40,42,20,26,48,50
+hsqldb,20,0,100,33,44,72
+exoportal,80,94,18,29,20,25
+aoi,0,5,0,0,0,33
+itext,0,21,0,0,0,48

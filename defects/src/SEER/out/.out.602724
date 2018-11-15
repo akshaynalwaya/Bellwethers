@@ -1,0 +1,40 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2c3-3>
+Subject: Job 602724: </share/rkrish11/miniconda/bin/python2.7 par_exec.py> Exited
+
+Job </share/rkrish11/miniconda/bin/python2.7 par_exec.py> was submitted from host <login04.hpc.ncsu.edu> by user <rkrish11> in cluster <henry2>.
+Job was executed on host(s) <10*n2c3-3>, in queue <long>, as user <rkrish11> in cluster <henry2>.
+                            <2*n2c3-7>
+</home/rkrish11> was used as the home directory.
+</home/rkrish11/git/Bellwether/src/SEER> was used as the working directory.
+Started at Tue Nov  1 11:29:48 2016
+Results reported at Tue Nov  1 11:31:40 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/share/rkrish11/miniconda/bin/python2.7 par_exec.py
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 143.
+
+Resource usage summary:
+
+    CPU time   :    902.58 sec.
+    Max Memory :       788 MB
+    Max Swap   :     12127 MB
+
+    Max Processes  :        15
+    Max Threads    :        85
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/.err.602724> for stderr output of this job.
+

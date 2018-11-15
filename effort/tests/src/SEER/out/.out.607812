@@ -1,0 +1,63 @@
+Time per source (s: kc): 11.61s
+Time per source (s: jm): 13.09s
+Time per source (s: mw): 9.91s
+Time per source (s: cm): 10.47s
+Time per source (s: mc): 8.87s
+Time per target (t: Apache): 53.95s
+Time per source (s: kc): 13.24s
+Time per source (s: jm): 15.77s
+Time per source (s: mw): 7.02s
+Time per source (s: cm): 9.56s
+Time per source (s: mc): 10.90s
+Time per target (t: Safe): 56.50s
+Time per source (s: kc): 11.67s
+Time per source (s: jm): 15.15s
+Time per source (s: mw): 10.32s
+Time per source (s: cm): 12.71s
+Time per source (s: mc): 12.73s
+Time per target (t: Zxing): 62.59s
+Time per call: 173.03s
+> /home/rkrish11/git/Bellwether/src/SEER/SEER.py(226)seer()
+-> return result
+(Pdb) 
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n3n5-14>
+Subject: Job 607812: </share/rkrish11/miniconda/bin/python2.7 par_exec.py> Exited
+
+Job </share/rkrish11/miniconda/bin/python2.7 par_exec.py> was submitted from host <login01.hpc.ncsu.edu> by user <rkrish11> in cluster <henry2>.
+Job was executed on host(s) <4*n3n5-14>, in queue <long>, as user <rkrish11> in cluster <henry2>.
+                            <5*n3n5-12>
+                            <2*n3n5-1>
+                            <1*n3n5-5>
+</home/rkrish11> was used as the home directory.
+</home/rkrish11/git/Bellwether/src/SEER> was used as the working directory.
+Started at Wed Nov  2 20:46:44 2016
+Results reported at Wed Nov  2 20:49:47 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/share/rkrish11/miniconda/bin/python2.7 par_exec.py
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time   :   1190.65 sec.
+    Max Memory :      1046 MB
+    Max Swap   :     10725 MB
+
+    Max Processes  :        15
+    Max Threads    :        82
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/.err.607812> for stderr output of this job.
+

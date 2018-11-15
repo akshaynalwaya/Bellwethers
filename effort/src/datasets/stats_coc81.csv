@@ -1,0 +1,6 @@
+,Dataset,Samples, Range (min-max),# metrics,Nature
+1,Mystery2,95,3.5 - 2673.0,24,Functional Point
+2,nasa93,93,8.4 - 8211.0,24,Functional Point
+4,coc81,63,5.9 - 11400.0,24,Functional Point
+0,Mystery1,17,320.0 - 3291.8,24,Functional Point
+3,cocomo,12,1.0 - 22.0,24,Functional Point

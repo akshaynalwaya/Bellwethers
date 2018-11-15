@@ -1,0 +1,4 @@
+# Ignore Pickles
+picklejar/*
+*.p
+*.pkl

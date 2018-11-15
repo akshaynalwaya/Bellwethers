@@ -1,0 +1,5 @@
+Name,Pd (Mean),Pd (Std),Pf (Mean),Pf (Std),AUC (Mean),AUC (Std)
+ML,62,1,28,1,73,1
+LC,62,0,29,0,71,0
+EQ,60,1,28,1,70,0
+JDT,60,1,28,1,69,0

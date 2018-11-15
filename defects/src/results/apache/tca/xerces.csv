@@ -1,0 +1,9 @@
+Name,Pd (Mean),Pd (Std),Pf (Mean),Pf (Std),AUC (Mean),AUC (Std)
+xalan,42,2,27,1,61,0
+ivy,42,1,27,1,61,0
+velocity,45,3,28,2,61,1
+log4j,38,1,26,1,57,0
+lucene,36,1,26,1,56,0
+camel,40,2,28,2,56,0
+ant,37,2,28,1,56,0
+jedit,22,2,27,1,40,1

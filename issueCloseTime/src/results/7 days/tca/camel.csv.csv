@@ -1,0 +1,9 @@
+Name,Pd,Pf,Prec,F1,G,AUC
+node.csv,41,38,9,15,50,52
+cloudstack.csv,24,23,8,13,43,52
+ofbiz.csv,3,4,7,5,19,46
+deeplearning.csv,2,4,5,3,16,51
+qpid.csv,1,0,33,3,12,56
+cocoon.csv,0,0,10,0,6,50
+hive.csv,0,0,0,0,0,46
+hadoop.csv,0,0,0,0,0,49

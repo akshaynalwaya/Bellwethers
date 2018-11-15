@@ -1,0 +1,18 @@
+openpyxl
+networkx
+scikit-learn
+scipy
+numpy
+pandas
+matplotlib
+click
+flask
+networkx
+texttable
+oct2py
+cvxopt
+# prettytable
+pillow
+pygraphviz
+javabridge
+python-weka-wrapper

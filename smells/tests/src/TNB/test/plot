@@ -1,0 +1,15 @@
+set terminal postscript eps enhanced color 20 "Helvetica"
+set output filename.".eps"
+set   autoscale                        # scale axes automatically
+unset log                              # remove any log-scaling
+unset label                            # remove any previous labels
+set xtic auto                          # set xtics automatically
+set ytic auto                          # set ytics automatically
+set title filename
+set xlabel "LOC (%)"
+set ylabel "Recall (%)"
+unset key
+set xr [0:100]
+set yr [0:100]
+
+plot filename.".dat" using 2:3 with linespoints, filename.".dat" using 2:2 with lines

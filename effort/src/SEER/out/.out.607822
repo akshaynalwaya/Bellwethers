@@ -1,0 +1,64 @@
+Time per source (s: Apache): 104.19s
+Time per source (s: Safe): 84.58s
+Time per source (s: Zxing): 110.56s
+Time per target (t: kc): 299.34s
+Time per source (s: Apache): 101.66s
+Time per source (s: Safe): 120.11s
+Time per source (s: Zxing): 189.57s
+Time per target (t: jm): 411.34s
+Time per source (s: Apache): 108.15s
+Time per source (s: Safe): 92.00s
+Time per source (s: Zxing): 117.50s
+Time per target (t: mw): 317.66s
+Time per source (s: Apache): 107.89s
+Time per source (s: Safe): 71.49s
+Time per source (s: Zxing): 123.41s
+Time per target (t: cm): 302.80s
+Time per source (s: Apache): 82.43s
+Time per source (s: Safe): 72.98s
+Time per source (s: Zxing): 102.62s
+Time per target (t: mc): 258.03s
+Time per call: 1589.17s
+> /home/rkrish11/git/Bellwether/src/SEER/SEER.py(226)seer()
+-> return result
+(Pdb) 
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n3n5-12>
+Subject: Job 607822: </share/rkrish11/miniconda/bin/python2.7 par_exec.py> Exited
+
+Job </share/rkrish11/miniconda/bin/python2.7 par_exec.py> was submitted from host <login01.hpc.ncsu.edu> by user <rkrish11> in cluster <henry2>.
+Job was executed on host(s) <6*n3n5-12>, in queue <long>, as user <rkrish11> in cluster <henry2>.
+                            <4*n3n5-14>
+                            <2*n3n5-5>
+</home/rkrish11> was used as the home directory.
+</home/rkrish11/git/Bellwether/src/SEER> was used as the working directory.
+Started at Wed Nov  2 20:58:52 2016
+Results reported at Wed Nov  2 21:25:36 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+/share/rkrish11/miniconda/bin/python2.7 par_exec.py
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time   :  11824.06 sec.
+    Max Memory :      1205 MB
+    Max Swap   :     10915 MB
+
+    Max Processes  :        15
+    Max Threads    :        82
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/.err.607822> for stderr output of this job.
+

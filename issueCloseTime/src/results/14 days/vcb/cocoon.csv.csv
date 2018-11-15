@@ -1,0 +1,9 @@
+Name,Pd,Pf,Prec,F1,G,AUC
+camel.csv,23,7,4,7,46,85
+hadoop.csv,58,87,1,2,26,14
+hive.csv,78,93,1,2,21,36
+deeplearning.csv,19,26,1,2,21,63
+node.csv,43,60,1,1,18,36
+qpid.csv,5,19,0,0,6,45
+cloudstack.csv,5,15,0,0,4,63
+ofbiz.csv,0,0,0,0,0,84

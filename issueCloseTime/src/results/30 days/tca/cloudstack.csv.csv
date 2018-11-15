@@ -1,0 +1,9 @@
+Name,Pd,Pf,Prec,F1,G,AUC
+node.csv,1,0,50,3,13,40
+ofbiz.csv,0,0,11,1,9,51
+hive.csv,0,0,0,0,0,56
+deeplearning.csv,0,0,0,0,0,39
+qpid.csv,0,0,0,0,0,57
+cocoon.csv,0,0,0,0,0,46
+hadoop.csv,0,0,0,0,0,39
+camel.csv,0,0,0,0,0,42

@@ -1,0 +1,307 @@
+Process PoolWorker-6:
+Traceback (most recent call last):
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Process PoolWorker-7:
+Traceback (most recent call last):
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Process PoolWorker-5:
+Process PoolWorker-2:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Process PoolWorker-10:
+Traceback (most recent call last):
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Process PoolWorker-12:
+Traceback (most recent call last):
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Process PoolWorker-9:
+Traceback (most recent call last):
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Process PoolWorker-3:
+Traceback (most recent call last):
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Process PoolWorker-11:
+Traceback (most recent call last):
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Process PoolWorker-4:
+Traceback (most recent call last):
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Process PoolWorker-8:
+Traceback (most recent call last):
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+Process PoolWorker-1:
+Traceback (most recent call last):
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 113, in worker
+    self.run()
+    self.run()
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 113, in worker
+    self._target(*self._args, **self._kwargs)
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 113, in worker
+    self.run()
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 113, in worker
+    self.run()
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 113, in worker
+    self.run()
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self.run()
+    self._target(*self._args, **self._kwargs)
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 114, in run
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 113, in worker
+    self._target(*self._args, **self._kwargs)
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 113, in worker
+    self.run()
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 113, in worker
+    self.run()
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 113, in worker
+    self.run()
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 113, in worker
+    self.run()
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 113, in worker
+    self.run()
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/process.py", line 114, in run
+    self._target(*self._args, **self._kwargs)
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 113, in worker
+    result = (True, func(*args, **kwds))
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 65, in mapstar
+    return map(*args)
+  File "par_exec.py", line 45, in execute
+    result = (True, func(*args, **kwds))
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 65, in mapstar
+    return map(*args)
+  File "par_exec.py", line 45, in execute
+    result = (True, func(*args, **kwds))
+    result = (True, func(*args, **kwds))
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 65, in mapstar
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 65, in mapstar
+    return map(*args)
+    return map(*args)
+  File "par_exec.py", line 45, in execute
+  File "par_exec.py", line 45, in execute
+    result = seer(source, target)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 137, in seer
+    result = (True, func(*args, **kwds))
+    result = seer(source, target)
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 65, in mapstar
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 137, in seer
+    return map(*args)
+  File "par_exec.py", line 45, in execute
+    result = (True, func(*args, **kwds))
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 65, in mapstar
+    result = seer(source, target)
+    return map(*args)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 137, in seer
+  File "par_exec.py", line 45, in execute
+    result = seer(source, target)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 137, in seer
+    result = seer(source, target)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 137, in seer
+    result = (True, func(*args, **kwds))
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 65, in mapstar
+    return map(*args)
+  File "par_exec.py", line 45, in execute
+    result = (True, func(*args, **kwds))
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 65, in mapstar
+    return map(*args)
+  File "par_exec.py", line 45, in execute
+    result = (True, func(*args, **kwds))
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 65, in mapstar
+    return map(*args)
+  File "par_exec.py", line 45, in execute
+    result = (True, func(*args, **kwds))
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 65, in mapstar
+    return map(*args)
+  File "par_exec.py", line 45, in execute
+    result = (True, func(*args, **kwds))
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 65, in mapstar
+    return map(*args)
+  File "par_exec.py", line 45, in execute
+    result = (True, func(*args, **kwds))
+  File "/share/rkrish11/miniconda/lib/python2.7/multiprocessing/pool.py", line 65, in mapstar
+    return map(*args)
+  File "par_exec.py", line 45, in execute
+    result = seer(source, target)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 137, in seer
+    result = seer(source, target)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 137, in seer
+    result = seer(source, target)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 137, in seer
+    result = seer(source, target)
+    result = seer(source, target)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 137, in seer
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 137, in seer
+    result = seer(source, target)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 137, in seer
+    result = seer(source, target)
+    matched_src = metrics_match(src, tgt)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 94, in metrics_match
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 137, in seer
+    value = np.median([cause_effect(src[s_metric], tgt[t_metric]) for _ in xrange(10)])
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 81, in cause_effect
+    c_xy = hsic.UnBiasedHSIC(x_val, e_y)
+  File "/home/rkrish11/git/Bellwether/src/SEER/matching/bahsic/hsic.py", line 108, in UnBiasedHSIC
+    matched_src = metrics_match(src, tgt)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 94, in metrics_match
+    matched_src = metrics_match(src, tgt)
+    value = np.median([cause_effect(src[s_metric], tgt[t_metric]) for _ in xrange(10)])
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 82, in cause_effect
+    c_yx = hsic.UnBiasedHSIC(y_val, e_x)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 94, in metrics_match
+  File "/home/rkrish11/git/Bellwether/src/SEER/matching/bahsic/hsic.py", line 105, in UnBiasedHSIC
+    value = np.median([cause_effect(src[s_metric], tgt[t_metric]) for _ in xrange(10)])
+    matched_src = metrics_match(src, tgt)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 77, in cause_effect
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 94, in metrics_match
+    e_x = residue(train, test, fwd=False)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 72, in residue
+    value = np.median([cause_effect(src[s_metric], tgt[t_metric]) for _ in xrange(10)])
+    mdl.fit(X, y)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 81, in cause_effect
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/sklearn/linear_model/base.py", line 512, in fit
+    c_xy = hsic.UnBiasedHSIC(x_val, e_y)
+  File "/home/rkrish11/git/Bellwether/src/SEER/matching/bahsic/hsic.py", line 108, in UnBiasedHSIC
+    matched_src = metrics_match(src, tgt)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 94, in metrics_match
+    value = np.median([cause_effect(src[s_metric], tgt[t_metric]) for _ in xrange(10)])
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 81, in cause_effect
+    c_xy = hsic.UnBiasedHSIC(x_val, e_y)
+  File "/home/rkrish11/git/Bellwether/src/SEER/matching/bahsic/hsic.py", line 108, in UnBiasedHSIC
+    matched_src = metrics_match(src, tgt)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 94, in metrics_match
+    matched_src = metrics_match(src, tgt)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 94, in metrics_match
+    value = np.median([cause_effect(src[s_metric], tgt[t_metric]) for _ in xrange(10)])
+    value = np.median([cause_effect(src[s_metric], tgt[t_metric]) for _ in xrange(10)])
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 75, in cause_effect
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 81, in cause_effect
+    train, test = pack()
+    c_xy = hsic.UnBiasedHSIC(x_val, e_y)
+    matched_src = metrics_match(src, tgt)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 52, in pack
+  File "/home/rkrish11/git/Bellwether/src/SEER/matching/bahsic/hsic.py", line 108, in UnBiasedHSIC
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 94, in metrics_match
+    test = [(a, b) for a, b in zip(x_test, y_test)]
+    value = np.median([cause_effect(src[s_metric], tgt[t_metric]) for _ in xrange(10)])
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/pandas/core/frame.py", line 2037, in __getitem__
+KeyboardInterrupt
+    matched_src = metrics_match(src, tgt)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 94, in metrics_match
+    value = np.median([cause_effect(src[s_metric], tgt[t_metric]) for _ in xrange(10)])
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 77, in cause_effect
+    e_x = residue(train, test, fwd=False)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 72, in residue
+    mdl.fit(X, y)
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/sklearn/linear_model/base.py", line 539, in fit
+    matched_src = metrics_match(src, tgt)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 94, in metrics_match
+    value = np.median([cause_effect(src[s_metric], tgt[t_metric]) for _ in xrange(10)])
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 75, in cause_effect
+    train, test = pack()
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 49, in pack
+    x_train, y_train, x_test, y_test = train_test_split(x0, y0)
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/sklearn/model_selection/_split.py", line 1662, in train_test_split
+    lMat = kernely.Dot(y, y)
+  File "/home/rkrish11/git/Bellwether/src/SEER/matching/bahsic/vector.py", line 73, in Dot
+    lMat = kernely.Dot(y, y)
+  File "/home/rkrish11/git/Bellwether/src/SEER/matching/bahsic/vector.py", line 73, in Dot
+    matched_src = metrics_match(src, tgt)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 94, in metrics_match
+    value = np.median([cause_effect(src[s_metric], tgt[t_metric]) for _ in xrange(10)])
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 75, in cause_effect
+    train, test = pack()
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 49, in pack
+    x_train, y_train, x_test, y_test = train_test_split(x0, y0)
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/sklearn/model_selection/_split.py", line 1675, in train_test_split
+    kMat = kernelx.Dot(x, x)
+  File "/home/rkrish11/git/Bellwether/src/SEER/matching/bahsic/vector.py", line 70, in Dot
+    lMat = kernely.Dot(y, y)
+  File "/home/rkrish11/git/Bellwether/src/SEER/matching/bahsic/vector.py", line 73, in Dot
+    matched_src = metrics_match(src, tgt)
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 94, in metrics_match
+    value = np.median([cause_effect(src[s_metric], tgt[t_metric]) for _ in xrange(10)])
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 75, in cause_effect
+    train, test = pack()
+  File "/home/rkrish11/git/Bellwether/src/SEER/SEER.py", line 49, in pack
+    x_train, y_train, x_test, y_test = train_test_split(x0, y0)
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/sklearn/model_selection/_split.py", line 1675, in train_test_split
+    output[lower_limit:n1,] = numpy.transpose(numpy.dot(x2, numpy.transpose(x1[lower_limit:n1,])))
+KeyboardInterrupt
+    output[lower_limit:n1,] = numpy.transpose(numpy.dot(x2, numpy.transpose(x1[lower_limit:n1,])))
+    output[lower_limit:upper_limit,] = numpy.transpose(numpy.dot(x2, numpy.transpose(x1[lower_limit:upper_limit,])))
+KeyboardInterrupt
+    output[lower_limit:n1,] = numpy.transpose(numpy.dot(x2, numpy.transpose(x1[lower_limit:n1,])))
+KeyboardInterrupt
+KeyboardInterrupt
+    lMat = kernely.Dot(y, y)
+  File "/home/rkrish11/git/Bellwether/src/SEER/matching/bahsic/vector.py", line 73, in Dot
+    output[lower_limit:n1,] = numpy.transpose(numpy.dot(x2, numpy.transpose(x1[lower_limit:n1,])))
+KeyboardInterrupt
+    linalg.lstsq(X, y)
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/scipy/linalg/basic.py", line 909, in lstsq
+    y_numeric=True, multi_output=True)
+KeyboardInterrupt
+    is_mi_columns = isinstance(self.columns, MultiIndex)
+KeyboardInterrupt
+    arrays = indexable(*arrays)
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/sklearn/utils/validation.py", line 206, in indexable
+    safe_indexing(a, test)) for a in arrays))
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/sklearn/model_selection/_split.py", line 1675, in <genexpr>
+    safe_indexing(a, test)) for a in arrays))
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/sklearn/model_selection/_split.py", line 1675, in <genexpr>
+    safe_indexing(a, test)) for a in arrays))
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/sklearn/utils/__init__.py", line 99, in safe_indexing
+    safe_indexing(a, test)) for a in arrays))
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/sklearn/utils/__init__.py", line 99, in safe_indexing
+    resids = np.sum(np.abs(x[n:])**2, axis=0)
+KeyboardInterrupt
+    return X.iloc[indices]
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/pandas/core/indexing.py", line 1311, in __getitem__
+    return X.iloc[indices]
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/pandas/core/indexing.py", line 1311, in __getitem__
+    return self._getitem_axis(key, axis=0)
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/pandas/core/indexing.py", line 1614, in _getitem_axis
+    self._is_valid_list_like(key, axis)
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/pandas/core/indexing.py", line 1552, in _is_valid_list_like
+    if len(arr) and (arr.max() >= l or arr.min() < -l):
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/numpy/core/_methods.py", line 26, in _amax
+    return self._getitem_axis(key, axis=0)
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/pandas/core/indexing.py", line 1629, in _getitem_axis
+    return self._get_loc(key, axis=axis)
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/pandas/core/indexing.py", line 104, in _get_loc
+    return self.obj._ixs(key, axis=axis)
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/pandas/core/series.py", line 585, in _ixs
+    return umr_maximum(a, axis, None, out, keepdims)
+KeyboardInterrupt
+    return self.take(i, axis=axis, convert=True)
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/pandas/core/series.py", line 2430, in take
+    indices = maybe_convert_indices(indices, len(self._get_axis(axis)))
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/pandas/core/indexing.py", line 1861, in maybe_convert_indices
+    indices = np.array(indices)
+KeyboardInterrupt
+    check_consistent_length(*result)
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/sklearn/utils/validation.py", line 178, in check_consistent_length
+    uniques = np.unique(lengths)
+  File "/share/rkrish11/miniconda/lib/python2.7/site-packages/numpy/lib/arraysetops.py", line 200, in unique
+    flag = np.concatenate(([True], aux[1:] != aux[:-1]))
+KeyboardInterrupt
+Terminated

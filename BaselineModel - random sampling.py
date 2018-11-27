@@ -73,31 +73,21 @@ for i in range(len(projs)):
     for j in range(len(projs)):
         if (i != j):
             testData = pd.read_csv(projList[j])
-            #print("test data: ", projList[j], projs[j])
-            #print(testData.head())
             X_test = testData.loc[:, testData.columns!='$<bug']
             y_test = testData.loc[:, testData.columns=='$<bug']
             clf = RandomForestClassifier(n_estimators=1000, n_jobs=1)
             clf.fit(X_train, y_train.values.ravel())
             y_pred = clf.predict(X_test)
             cm = confusion_matrix(y_test, y_pred)
-            #print("Sum: ",sum(y_pred))
-            #print("Confusion Matrix: ",cm)
-            #print("True Positive: ", cm[1][1])
-            #print("False Positive: ", cm[0][1])
-            #print("True Negative: ", cm[0][0])
-            #print("False Negative: ", cm[1][0])
-            #pd = tp/(tp+fn)
             recall = cm[1][1]/(cm[1][1] + cm[1][0])
-            #pf = fp/(fp+tn)
             pf = cm[0][1]/(cm[0][1] + cm[0][0])
             
             g = 2/((1/recall) + (1/(1-pf)))
             
             print("Model trained on ",projs[i] + " " +  projs[j])
             #acc = metrics.accuracy_score(y_test, y_pred)
-            print("Project: {}, Accuracy: {}, Precision: {}".format(projs[j],acc,
-                                                                   metrics.precision_score(y_test, y_pred)))
+            #print("Project: {}, Accuracy: {}, Precision: {}".format(projs[j],acc,
+            #                                                       metrics.precision_score(y_test, y_pred)))
             tbl[i][j]=g
             #print("Test Project: {}, G-Score {}".format(projs[j], g))
 print(tbl)
